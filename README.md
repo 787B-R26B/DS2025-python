@@ -50,7 +50,3 @@ This project uses `uv` for dependency management.
     source .venv/bin/activate  # On macOS/Linux
     jupyter lab
     ```
-
-## License
-
-Please refer to the course guidelines for usage and distribution rights.
